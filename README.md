@@ -8,7 +8,8 @@ BACKYMEDICALSOFT
 
 BACKYMEDICALSOFT is a web application for patient management from the reception desk to the treatment of the patient.
 
-![preview img](/accuel%20app.PNG)
+![accuel app](https://user-images.githubusercontent.com/111361566/194841819-d8f98148-f665-4a05-b2da-e381d5ab46ff.PNG)
+
 
 ## Overview
 
@@ -21,7 +22,7 @@ The application is structured as follows:
 
 Here is the demo of the management interface of the application.
 
-![preview img](/demo.PNG)
+![demo](https://user-images.githubusercontent.com/111361566/194841826-00e77255-6919-4ed1-9449-78e438b2acc2.PNG)
 
 
 ## Getting Started
